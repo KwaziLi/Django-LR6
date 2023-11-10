@@ -1,14 +1,5 @@
-@font-face {
-    font-family: 'Freedom';
-    src: url('fonts/Freedom-10eM.ttf');
-}
-@font-face {
-    font-family: 'Freedom-2';
-    src: url('fonts/Freedom-nZ4J.otf') format("opentype");
-}
-
 body {
-    background: white url("images/iTOuMNO.png") no-repeat;
+    background: white url("images/00010-3389708861-_lora_add_detail_1_.jpg") no-repeat;
     background-size: cover;
 
 }
